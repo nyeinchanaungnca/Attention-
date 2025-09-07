@@ -11,7 +11,7 @@ AUTHORIZED_CHATS = "-4623623314"
 SUDO_USERS = "6445480256"
 DATABASE_URL = "mongodb+srv://nyeinchanaung:aung12345@cluster0.q5labmg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 STATUS_LIMIT = 4
-DATABASE_ENCRYPTION_KEY = "aung12345a"
+DATABASE_ENCRYPTION_KEY = "A3cur3KoyebKey!@#$"
 DEFAULT_UPLOAD = "rc"
 STATUS_UPDATE_INTERVAL = 15
 FILELION_API = ""
