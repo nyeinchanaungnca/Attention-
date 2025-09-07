@@ -17,3 +17,4 @@ DATABASE_ENCRYPTION_KEY = "Aung45&2"
 # Your MongoDB connection URL.
 DATABASE_URL = "mongodb+srv://nyeinchanaung:aung12345@cluster0.q5labmg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
+# test
