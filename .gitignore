@@ -7,7 +7,7 @@ sabnzbd/
 downloads/
 tdlib_user/
 tdlib_bot/
-config.py
+config.py/
 token.pickle
 rclone.conf
 .netrc
